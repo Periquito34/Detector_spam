@@ -1,6 +1,6 @@
 # Detector_spam
 
-Eliminar la carpteta detector_spam_env y crear uno nuevo:
+Crear un entorno:
 
 1. pip install virtualenv
 
